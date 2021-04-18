@@ -58,12 +58,11 @@ Benchmarking means setting a baseline as an acceptable performance measure. Here
 Create and publish a pipeline
 Publishing a pipeline is the process of making a pipeline publicly available and to automate workflows.
 
- ![image](https://user-images.githubusercontent.com/62311350/115136535-f04d9e80-a03d-11eb-8d2d-1ab1470e7947.png)
-![image](https://user-images.githubusercontent.com/62311350/115136537-f479bc00-a03d-11eb-9992-60de61cdb288.png)
-![image](https://user-images.githubusercontent.com/62311350/115136539-f8a5d980-a03d-11eb-99b3-5de2406b9836.png)
-![image](https://user-images.githubusercontent.com/62311350/115136540-fa6f9d00-a03d-11eb-9a89-2cd487801c13.png)
+![image](https://github.com/tejasbangera/Udacity_AzureMLProject2/blob/main/SS213.png)
+![image](https://github.com/tejasbangera/Udacity_AzureMLProject2/blob/main/SS214.png)
+![image](https://github.com/tejasbangera/Udacity_AzureMLProject2/blob/main/SS215.png)
+![image](https://github.com/tejasbangera/Udacity_AzureMLProject2/blob/main/SS216.png)
 
-   
 We can also view the graph of pipeline endpoint and also its active status:
 
 Screen Recording:
