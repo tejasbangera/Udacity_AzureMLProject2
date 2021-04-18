@@ -18,10 +18,12 @@ https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-da
 ![image](https://user-images.githubusercontent.com/62311350/115136448-87febd00-a03d-11eb-896a-e9218fe7638a.png)
 
 The best algorithm found is VotingEnsemble with an accuracy of 91.8%.
+
  ![image](https://user-images.githubusercontent.com/62311350/115136456-951bac00-a03d-11eb-8948-d39d9dd31562.png)
 
 Deploy the best model
 To interact with the best model obtained we have to deploy it using Azure Container Instance (ACI) and authentication is enabled.
+
  ![image](https://user-images.githubusercontent.com/62311350/115136470-9fd64100-a03d-11eb-9f6d-878a1ae54acb.png)
 ![image](https://user-images.githubusercontent.com/62311350/115136475-a5338b80-a03d-11eb-8a7f-6b71e00bdb51.png)
 ![image](https://user-images.githubusercontent.com/62311350/115136476-aa90d600-a03d-11eb-9a14-1ddc38b58079.png)
@@ -30,12 +32,14 @@ To interact with the best model obtained we have to deploy it using Azure Contai
 
  Enable logging 
 We enable application insights in logs.py and then run the script to view the logs generated.
+
 ![image](https://user-images.githubusercontent.com/62311350/115136497-c5634a80-a03d-11eb-803e-4c284e1f5b75.png)
 ![image](https://user-images.githubusercontent.com/62311350/115136504-cb592b80-a03d-11eb-9dfb-bd574ab68530.png)
   
  
 Swagger Documentation
 Swagger is a tool that eases the documentation efforts of HTTP APIs. It makes it easier to explain what type of GET and POST requests. For consuming our best AutoML model using Swagger, we first need to download the swagger.json file provided to us in the Endpoints section of Azure Machine Learning Studio.  
+
  ![image](https://user-images.githubusercontent.com/62311350/115136510-d4e29380-a03d-11eb-9dc5-9943e40fd05f.png)
 ![image](https://user-images.githubusercontent.com/62311350/115136515-dc09a180-a03d-11eb-9016-38b7e2726a6b.png)
 ![image](https://user-images.githubusercontent.com/62311350/115136518-de6bfb80-a03d-11eb-9872-0aace32af5e8.png)
@@ -48,10 +52,12 @@ model and get a response back. This is called as consuming deployed service.
  ![image](https://user-images.githubusercontent.com/62311350/115136526-e75ccd00-a03d-11eb-96ab-eeb781f65628.png)
 
 Benchmarking means setting a baseline as an acceptable performance measure. Here we use apache benchmark to see the model performance against our HTTP requests.
+
  ![image](https://user-images.githubusercontent.com/62311350/115136528-eaf05400-a03d-11eb-8924-cc5de8906ad3.png)
 
 Create and publish a pipeline
 Publishing a pipeline is the process of making a pipeline publicly available and to automate workflows.
+
  ![image](https://user-images.githubusercontent.com/62311350/115136535-f04d9e80-a03d-11eb-8d2d-1ab1470e7947.png)
 ![image](https://user-images.githubusercontent.com/62311350/115136537-f479bc00-a03d-11eb-9992-60de61cdb288.png)
 ![image](https://user-images.githubusercontent.com/62311350/115136539-f8a5d980-a03d-11eb-99b3-5de2406b9836.png)
