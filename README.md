@@ -31,7 +31,7 @@ We enable application insights in logs.py and then run the script to view the lo
 Swagger Documentation
 Swagger is a tool that eases the documentation efforts of HTTP APIs. It makes it easier to explain what type of GET and POST requests. For consuming our best AutoML model using Swagger, we first need to download the swagger.json file provided to us in the Endpoints section of Azure Machine Learning Studio.  
  
- 
+ !https://github.com/tejasbangera/Udacity_AzureMLProject2/blob/main/S206.png
 After running the script, we can find our best model's documentation instead of the default Swagger page.
 Consume model endpoints
 Finally, we can now interact with the model and feed some test data to it by adding the scoring_uri and the key to the endpoint.py script and running it. So once a model has been deployed, an endpoint will be available which allows user to send inputs to the trained
