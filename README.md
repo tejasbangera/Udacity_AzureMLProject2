@@ -46,6 +46,7 @@ Publishing a pipeline is the process of making a pipeline publicly available and
 We can also view the graph of pipeline endpoint and also its active status:
 Screen Recording:
 Screen Recording Link: https://youtu.be/lS_pDtDVbTs
+
 Future Improvements:
 We can try with Deep Learning for better performance.
 Resampling or adding more data can resolve class-imbalance issue and improve accuracy.
