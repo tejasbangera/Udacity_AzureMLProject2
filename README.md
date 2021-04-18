@@ -44,6 +44,7 @@ After running the script, we can find our best model's documentation instead of 
 Consume model endpoints
 Finally, we can now interact with the model and feed some test data to it by adding the scoring_uri and the key to the endpoint.py script and running it. So once a model has been deployed, an endpoint will be available which allows user to send inputs to the trained
 model and get a response back. This is called as consuming deployed service.
+
  ![image](https://user-images.githubusercontent.com/62311350/115136526-e75ccd00-a03d-11eb-96ab-eeb781f65628.png)
 
 Benchmarking means setting a baseline as an acceptable performance measure. Here we use apache benchmark to see the model performance against our HTTP requests.
