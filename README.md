@@ -69,6 +69,8 @@ Screen Recording:
 
 Screen Recording Link: https://youtu.be/lS_pDtDVbTs
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/tejasbangera/Udacity_AzureMLProject2/blob/main/Recording%20%234.mp4)
+
 Future Improvements:
 
 We can try with Deep Learning for better performance.
