@@ -68,8 +68,8 @@ We can also view the graph of pipeline endpoint and also its active status:
 Screen Recording:
 
 Screen Recording Link: https://youtu.be/lS_pDtDVbTs
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/tejasbangera/Udacity_AzureMLProject2/blob/main/Recording%20%234.mp4)
+Pending requirement:
+[![Watch the video]()](https://github.com/tejasbangera/Udacity_AzureMLProject2/blob/main/Recording%20%234.mp4)
 
 Future Improvements:
 
